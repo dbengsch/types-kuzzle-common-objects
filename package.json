@@ -1,0 +1,19 @@
+{
+  "name": "types-kuzzle-common-objects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbengsch/types-kuzzle-common-objects.git"
+  },
+  "author": "David Bengsch",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/dbengsch/types-kuzzle-common-objects/issues"
+  },
+  "homepage": "https://github.com/dbengsch/types-kuzzle-common-objects#readme"
+}
